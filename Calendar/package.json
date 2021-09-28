@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "expo-constants": "~11.0.2",
+    "@expo/vector-icons": "^12.0.0",
+    "react-native-paper": "3.6.0",
+    "react-native-elements": "*",
+    "react-native-vector-icons": "8.1.0",
+    "react-native-safe-area-context": "3.2.0",
+    "react-native-vector-icons/AntDesign": "*"
+  }
+}
